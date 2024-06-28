@@ -20,7 +20,7 @@ header {
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #ff6d00 3px solid;
+    border-bottom: #00b7ff 3px solid;
 }
 
 header a {
@@ -55,7 +55,7 @@ header #branding h1 {
 
 /* Estilos do rodapé */
 footer {
-    background: #333;
+    background: #333333;
     color: #fff;
     padding: 20px;
     text-align: center;
